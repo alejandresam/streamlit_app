@@ -13,4 +13,4 @@ In addition to the dataset statistics, the application provides users with the a
 The application also includes a sidebar navigation tool, which allows users to easily switch between different sections, including dataset statistics, numerical column statistics, and categorical column statistics. Moreover, users can download the processed data as a CSV file and download the generated plot image for further analysis or sharing.
 
 Here is the link
-[streamlit_app]()
+[streamlit_app](https://alejandresam-streamlit-app-app-k0hwrv.streamlit.app/)
